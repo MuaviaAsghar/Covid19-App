@@ -16,7 +16,7 @@ class CstmRow extends StatelessWidget {
         },
         child: Container(
           height: 80,
-          width: 160,
+          width: 180,
           decoration: BoxDecoration(
               color: Colors.transparent,
               borderRadius: BorderRadius.circular(15),
@@ -47,7 +47,7 @@ class CstmRow extends StatelessWidget {
         },
         child: Container(
             height: 80,
-            width: 160,
+            width: 180,
             decoration: BoxDecoration(
                 color: Colors.transparent,
                 borderRadius: BorderRadius.circular(15),
